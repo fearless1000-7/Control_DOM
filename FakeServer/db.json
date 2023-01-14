@@ -1,0 +1,99 @@
+{
+  "users": [
+    {
+      "name": "Бекзод Хамидов",
+      "salary": 5000,
+      "increase": true,
+      "rise": true,
+      "id": 4
+    },
+    {
+      "name": "Алишер Мардиев",
+      "salary": 5000,
+      "increase": false,
+      "rise": true,
+      "id": 5
+    },
+    {
+      "name": "Мухаммад",
+      "salary": 5000,
+      "increase": false,
+      "rise": false,
+      "id": 6
+    },
+    {
+      "name": "Сабина Яковлева",
+      "salary": 5000,
+      "increase": false,
+      "rise": true,
+      "id": 7
+    },
+    {
+      "name": "Руфина",
+      "salary": 5000,
+      "increase": false,
+      "rise": true,
+      "id": 8
+    },
+    {
+      "name": "Хуршида",
+      "salary": 5000,
+      "increase": true,
+      "rise": true,
+      "id": 9
+    },
+    {
+      "name": "Дилшод Муртазоев",
+      "salary": 5000,
+      "increase": false,
+      "rise": false,
+      "id": 10
+    },
+    {
+      "name": "Ориф",
+      "salary": 5000,
+      "increase": false,
+      "rise": false,
+      "id": 11
+    },
+    {
+      "name": "Улугбек",
+      "salary": 5000,
+      "increase": false,
+      "rise": true,
+      "id": 12
+    },
+    {
+      "name": "Влад Цой",
+      "salary": 5000,
+      "increase": true,
+      "rise": false,
+      "id": 13
+    },
+    {
+      "name": "Алина",
+      "salary": 5000,
+      "increase": true,
+      "rise": true,
+      "id": 14
+    },
+    {
+      "id": 0.2521834599735626,
+      "increase": true,
+      "rise": false,
+      "name": "Давлет",
+      "surname": "228",
+      "photo": "",
+      "salary": "2280"
+    },
+    {
+      "id": 0.8057829895814137,
+      "increase": true,
+      "rise": false,
+      "name": "Асад 2 метра от вас ",
+      "surname": "",
+      "photo": "",
+      "salary": "1"
+    }
+  ]
+}
